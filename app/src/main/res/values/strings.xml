@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GDG DECFEST 2016</string>
+    <!--tab inicio-->
+    <string name="novedades">Novedares</string>
+    <string name="spyker">Speakers</string>
+    <string name="Evento">Evento</string>
+</resources>
